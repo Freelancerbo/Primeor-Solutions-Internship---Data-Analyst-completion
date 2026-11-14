@@ -134,8 +134,6 @@ Python (Pandas), Google Colab, Google Sheets / Excel, SQLite, Power BI
 ---
 
 ## Author
-**Your Name**
+**Tafseer Haider**
 Data Analysis Intern, Primeor Solutions
-LinkedIn: add your profile link here
-
 #PrimeorSolutions #PrimeorDataAnalytics #PrimeorInternship
